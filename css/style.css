@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    font-family: Agdasima,sans-serif !important;
+}
+
+/*important color*/
+.body-width{
+    width: 92%;
+}
+.bg-color{
+ background-color: #0063C1;
+}
+.bg-color2{
+    background-color: #EBF2FE;
+}
+.text-color{
+    color: #0360bd;
+}
+.foot-bg{
+    background-color: #4D5155;
+}
+
+
+/*nablink*/
+.nav-link{
+    font-size: 22px;
+    font-weight: 400;
+
+}
+.appoint button{
+    font-size: 20px;
+    padding: 10px 32px;
+    font-weight: bold;
+}
+.contact button{
+    font-size: 22px;
+    padding: 10px 32px;
+    font-weight: bold;
+}
+
+
+/*banner*/
+.content{
+
+    padding: 8px 16px;
+    color: #0360bd;
+    font-size: 20px;
+     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    width: fit-content;
+    margin-bottom: 24px;
+    text-transform: uppercase;
+    border-radius: 29px;
+    background: #FFF;
+}
+/**/
+
+
+
+/*footer css*/
+.social-media {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    background-color: #fffefe;
+}
+
+.social-media:hover {
+    background-color: #0844f6;
+}
